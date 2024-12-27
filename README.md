@@ -1,6 +1,9 @@
 # A/B Testing Project: Evaluating the Impact of Product Videos on E-commerce Sales
-Background & Overview
-This project analyzes an experiment conducted by a mid-size women's apparel retailer in the US. The retailer aimed to determine whether adding product videos to their website could boost e-commerce sales. The study also explored how combining this feature with other promotional strategies influenced customer behavior and overall sales performance.
+
+## Background & Overview  
+This project examines an experiment conducted by a mid-size women's apparel retailer in the US. The retailer sought to determine whether adding product videos to their website could boost e-commerce sales. Additionally, the study explored how integrating this feature with other promotional strategies influenced customer behavior and overall sales performance.
+
+The retailer's products were divided into two categories: Focal and Coordinating. Focal products primarily consist of clothing items, while examples of coordinating products include accessories like belts and pants. Videos were added exclusively to focal products—furthermore, some focal products displayed coordinating products on their pages, and vice versa. 
 
 ## Project Outline
 This analysis is divided into three key parts:
