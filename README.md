@@ -1,9 +1,10 @@
-# A/B Testing Project: Evaluating the Impact of Product Videos on E-commerce Sales
+# A/B Testing Project: Evaluating the Causal Impact of Product Videos on E-commerce Sales
 
 ## Background & Overview  
-This project analyzes a real-world experiment involving a US mid-size women's apparel retailer. The retailer sought to determine whether adding product videos to their website could boost e-commerce sales. Additionally, the study explored how integrating this feature with other promotional strategies influenced customer behavior and overall sales performance.
+This project analyzes a real-world experiment involving a US mid-size women's apparel retailer. The retailer sought to determine whether adding product videos to their website could boost e-commerce sales. In 
+ other words, are there valid causal relationships exist? Additionally, it  explored how integrating this feature with other promotional strategies influenced customer behavior and overall sales performance.
 
-The retailer's products were divided into two categories: Focal and Coordinating. Focal products primarily consist of clothing items, while examples of coordinating products include accessories like belts and pants. Videos were added exclusively to focal products—furthermore, some focal products displayed coordinating products on their pages, and vice versa. 
+The retailer has 571 products that were divided into two categories: Focal and Coordinating. Focal products are tops, bottoms, and dresses; coordinating products include accessories and shoes. Videos were added exclusively to focal products by random selections. Each videos are around 15-20 seconds. The models in the videos display focal products with matching coordinating products. The videos were shot with limited models and settings to reduce the differences. The experiment lasted 28 weeks of spring collection on the firm's website. 
 
 ## Project Outline
 This analysis is divided into three key parts:
@@ -16,7 +17,8 @@ This analysis is divided into three key parts:
   **Conclusion**: Adding videos led to a statistically significant increase in sales.
 3. **Analyzing the Interaction of Videos and Promotions on Sales**  
   **Goal**: Understand the combined effect of product videos and other promotional strategies on sales performance.  
-  **Conclusion**: The interaction of videos and promotions further increased sales, suggesting a synergistic effect.  
+  **Conclusion**: The interaction of videos and promotions further increased sales, suggesting a synergistic effect.
+
 ## Business Suggestions  
 1. Cost-Benefit Analysis for Videos  
 2. Targeted Deployment
