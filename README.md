@@ -12,8 +12,8 @@ This analysis is divided into three key parts:
   **Goal**: Ensure the treatment and control groups have similar product prices to avoid selection bias.  
   **Conclusion**: Product prices were balanced between the groups, confirming the experiment's validity.
 2. **Measuring the Effect of Product Videos on Focal & Coordinating Product Sales**  
-  **Goal**: Investigate whether adding product videos directly increases sales. Test the focal and coordinating products separately.
-  **Conclusion**: Adding videos led to a statistically significant increase in sales on both categories. For focal products, it increased 15.68 dollars per week; for coordinating products, it increased 
+  **Goal**: Investigate whether adding product videos increases sales. Test the focal and coordinating products separately.
+  **Conclusion**: Adding videos led to a statistically significant increase in sales in both categories. For focal products, it increased 15.68 dollars per week; for coordinating products, it increased 
 3. **Analyzing the Interaction of Videos and Promotions on Sales**  
   **Goal**: Understand the combined effect of product videos and other promotional strategies on sales performance.  
   **Conclusion**: The interaction of videos and promotions further increased sales, suggesting a synergistic effect.
