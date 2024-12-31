@@ -50,8 +50,12 @@ The following table outlines the variables included in the dataset:
 
 ## Insights Deep-Dive
 #### 1. The average product price in the experiment and control groups passed the t-test; thus, the selection was valid without bias.
-### 2. Adding videos on the focal products page increased sales
-### 3. Promotion Combination Analysis: some promotions had great outcomes, while others did not.
+- The hull hypothesis is the 2 groups have the same product price. The t-test failed to reject the H0 because of the following reasons: 
+  1. The control group's mean is 20.41, and the treatment group's is 20.71. The two are pretty close.
+  2. The P-value is 0.71: it is not greater than the common significant level of 0.05, which means it is not statistically significant.
+  3. 95% Confidence interval [−1.852871, 1.271512] contains 0.
+#### 2. Adding videos on the focal products page increased sales
+#### 3. Promotion Combination Analysis: some promotions had great outcomes, while others did not.
 - Video with focal product catalog promotion (VidWk & FpCatalogWk) combination has a significant positive effect.
 The coefficient is 94.69, and the P value < 0.01 indicates that using these 2 methods increased 94.69 dollars of sales.
 
