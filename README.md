@@ -51,10 +51,11 @@ The following table outlines the variables included in the dataset:
 ## Insights Deep-Dive
 #### 1. The average product price in the experiment and control groups passed the t-test; thus, the selection was valid without bias. 
 (This part's [R script](https://github.com/chikuku/AB-testing/blob/e2b1a3ea37fee73ce375e58e572bf63d2439c7c0/github_videoCase.R#L11))
-- The hull hypothesis is the 2 groups have the same product price. The t-test failed to reject the H0 because of the following reasons: 
+- The null hypothesis is the 2 groups have the same product price. The t-test failed to reject the H0 because of the following reasons: 
   1. The control group's mean is 20.41, and the treatment group's is 20.71. The two are pretty close.
   2. The P-value is 0.71: it is not greater than the common significant level of 0.05, which means it is not statistically significant.
   3. 95% Confidence interval [−1.852871, 1.271512] contains 0.
+  Thus, the 2 groups had no significant difference and remained the randomization. 
 #### 2. Examine if adding videos on the focal product's page increased focal & coordinating product sales. In conclusion, they both increased, and the focal product sales increased more than the coordinating products'. 
 - **Focal Product Sales** was increased
 - **Coordinating Product Sales** was increased
