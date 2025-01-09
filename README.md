@@ -47,7 +47,7 @@ Based on the results of the A/B test project, four marketing strategies (Email, 
 #### 2. Optimize the Cost-Benefit Ratio of Video Implementation 
 &nbsp;&nbsp;&nbsp;&nbsp; To further enhance the benefits of adding videos, I suggest two strategies:
 * 1. **Selective Implementation:**  
-   * Add videos only for products where the projected profit increase (e.g., 23 units from focal sales + 17 units from co-sales, multiplied by the product price) exceeds the video production cost.
+   * Add videos only for products where the product's profit increase (e.g., 23 units from focal sales + 17 units from co-sales, multiplied by the product price) exceeds the video production cost.
 
  * 2. **Reduce Production Costs:**  
    * Consider cost-saving measures, such as creating shorter videos, using lower-budget production settings, or repurposing existing content.
