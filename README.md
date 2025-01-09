@@ -19,13 +19,44 @@ This analysis is divided into three key parts:
   **Conclusion**: The interaction of videos and promotions further increased sales, suggesting a synergistic effect.
 
 ## Business Suggestions  
-1. Cost-Benefit Analysis for Videos  
-2. Targeted Deployment
-3. Optimizing Promotions
+
+Based on the results of the A/B test project, four marketing strategies (Email, Catalog, Home Page, and Category Page promotions) demonstrated a greater short-term increase in average sales compared to adding videos. However, this does not imply that adding videos is less valuable, as videos provide unique advantages:
+
+* Videos are a one-time cost and serve as a permanent promotion on product pages, unlike other strategies that incur recurring costs for each campaign.
+* The experiment only reflects short-term outcomes and does not account for the long-term value of videos.
+
+### Recommendations
+
+#### 1. Differentiate Products by Marketing Strategy
+&nbsp;&nbsp;&nbsp;&nbsp; I recommend categorizing products into short-term and long-term focus groups. Tailoring promotional strategies to these categories can maximize the benefits of both types.
+
+#### *Short-Term Comparison*
+&nbsp;&nbsp;&nbsp;&nbsp; During the test period, the focal product's sales increased: 
+* **Videos:** Modest increase of **23.59 units**  
+* **Email Promotions:** Significant increase of **105.44 units**  
+* **Catalog Promotions:** Significant increase of **209.99 units**  
+* **Home Page Promotions:** Significant increase of **90.87 units**  
+* **Category Page Promotions:** Significant increase of **101.63 units**
+
+#### *Long-Term Value of Videos* 
+&nbsp;&nbsp;&nbsp;&nbsp; Videos offer continuous value after implementation:
+* Permanently displayed on product pages  
+* No recurring costs for maintenance  
+* Can influence multiple purchase decisions over time, potentially leading to greater cumulative sales growth.
+
+#### 2. Optimize the Cost-Benefit Ratio of Video Implementation 
+&nbsp;&nbsp;&nbsp;&nbsp; To further enhance the benefits of adding videos, I suggest two strategies:
+* 1. **Selective Implementation:**  
+   * Add videos only for products where the projected profit increase (e.g., 23 units from focal sales + 17 units from co-sales, multiplied by the product price) exceeds the video production cost.
+
+ * 2. **Reduce Production Costs:**  
+   * Consider cost-saving measures, such as creating shorter videos, using lower-budget production settings, or repurposing existing content.
+
+This approach optimizes the balance between short-term profitability and long-term value.
 
 ## Data Dictionary
-
-The following table outlines the variables included in the dataset:
+There are 4 sheets in the dataset: Data Dictionary, Random check, FP Analysis data, CP Anaylsis data.
+The Data Dictionary sheet contains 2 tables; the following one outlines the variables in the FP Analysis data sheet:
 
 | **Variable Name** | **Description**                                                                                   |
 |--------------------|---------------------------------------------------------------------------------------------------|
