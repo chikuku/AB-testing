@@ -11,9 +11,9 @@ This analysis is divided into three key parts:
 1. **Assessing Group Balance with a T-Test**  
   **Goal**: Ensure the treatment and control groups have similar product prices to avoid selection bias.  
   **Conclusion**: Product prices were balanced between the groups, confirming the experiment's validity.
-2. **Measuring the Effect of Product Videos on Focal & Coordinating Product Sales**  
-  **Goal**: Investigate whether adding product videos increases sales. Test the focal and coordinating products separately.
-  **Conclusion**: Adding videos led to a statistically significant increase in sales in both categories. For focal products, it increased 15.68 dollars per week; for coordinating products, it increased 
+2. **Measuring the Effect of Product Videos on Focal & Coordinating Product Sales and compare the results with existing promotions** 
+  **Goal**: Exaime whether adding product videos increased sales. If it did, was it better than existing promotions? Test the focal and coordinating products separately.
+  **Conclusion**: Adding videos led to a statistically significant increase in sales in both categories. For focal products, it increased 23 units; for coordinating products, it increased 17 units. However, four other promotions increased sales more than adding videos. 
 3. **Analyzing the Interaction of Videos and Promotions on Sales**  
   **Goal**: Understand the combined effect of product videos and other promotional strategies on sales performance.  
   **Conclusion**: The interaction of videos and promotions further increased sales, suggesting a synergistic effect.
@@ -22,7 +22,7 @@ This analysis is divided into three key parts:
 
 Based on the results of the A/B test project, four marketing strategies (Email, Catalog, Home Page, and Category Page promotions) demonstrated a greater short-term increase in average sales compared to adding videos. However, this does not imply that adding videos is less valuable, as videos provide unique advantages:
 
-* Videos are a one-time cost and serve as a permanent promotion on product pages, unlike other strategies that incur recurring costs for each campaign.
+* Videos are a one-time cost and serve as a permanent promotion on product pages, unlike other strategies that incur recurring fees for each campaign.
 * The experiment only reflects short-term outcomes and does not account for the long-term value of videos.
 
 ### Recommendations
