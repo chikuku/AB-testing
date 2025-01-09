@@ -57,8 +57,8 @@ The following table outlines the variables included in the dataset:
   3. 95% Confidence interval [−1.852871, 1.271512] contains 0.
   Thus, the 2 groups had no significant difference and remained the randomization. 
 #### 2. Examine if adding videos on the focal product's page increased focal & coordinating product sales. In conclusion, they both increased, and the focal product sales increased more than the coordinating products'. 
-- **Focal Product Sales** was increased
-- **Coordinating Product Sales** was increased
+- **Focal Product Weekly Sales** average increased by 23.58 units compared to those weeks that did not play videos. 
+- **Coordinating Product Weekly Sales** average was increased by 17.73 units compared to those weeks that did not play videos. 
 #### 3. Promotion Combination Analysis: some promotions had great outcomes, while others did not.
 - Video with focal product catalog promotion (VidWk & FpCatalogWk) combination has a significant positive effect.
 The coefficient is 94.69, and the P value < 0.01 indicates that using these 2 methods increased 94.69 dollars of sales.
