@@ -89,7 +89,8 @@ The Data Dictionary sheet contains 2 tables; the following one outlines the vari
   Thus, the 2 groups had no significant difference and remained the randomization. 
 #### 2. Examine if adding videos on the focal product's page increased focal & coordinating product sales. In conclusion, they both increased, and the focal product sales increased more than the coordinating products'. 
 - **Focal Product Weekly Sales** average increased by 23.58 units compared to those weeks that did not play videos.
-  
+- <img src="https://github.com/chikuku/AB-testing/blob/main/Analysis%20Screenshot/Part2_Focal_Vid_Promotions.jpg" alt="part2_fp_image" width="550">
+
 - **Coordinating Product Weekly Sales** average was increased by 17.73 units compared to those weeks that did not play videos.
   
 #### 3. Promotion Combination Analysis: some promotions had great outcomes, while others did not.
