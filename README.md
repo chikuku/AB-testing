@@ -93,8 +93,9 @@ The Data Dictionary sheet contains 2 tables; the following one outlines the vari
 
 - **Coordinating Product Weekly Sales** average was increased by 17.73 units compared to those weeks that did not play videos.
   
-#### 3. Promotion Combination Analysis: some promotions had great outcomes, while others did not.
-- Video with focal product catalog promotion (VidWk & FpCatalogWk) combination has a significant positive effect.
-The coefficient is 94.69, and the P value < 0.01 indicates that using these 2 methods increased 94.69 dollars of sales.
-
-- Video with coordinating product catalog promotion (VidWk & CpCatalogWk) has a negative outcome. The coefficient is -278.79, and the P value < 0.001 indicates that these two methods used together led a negative outcome on sales
+#### 3. Focal Products Promotion Combination Analysis 
+Two combination promotions had great outcomes, while one did not. [R script](https://github.com/chikuku/AB-testing/blob/49532ec749e30e64bcea5feaa8f6a670f3beb635/github_videoCase.R#L37)
+- Video with home page and catalog front page promotion (VidWk: HomePgWk & VidWk :CatPgWk) combinations had significant positive effects.
+The coefficients are 102.1 and 164.15, suggesting that these 2 promotions integrated with videos can further boost sales.
+- However, when videos combined with catalog promotion(VidWk:CatalogWk) had significant negative effect. Thus, we should avoid using them together. 
+<img src= "https://github.com/chikuku/AB-testing/blob/main/Analysis%20Screenshot/Part3_Focal_Vid_combine_Promotions.jpg" alt="part2_fp_image" width="550">
