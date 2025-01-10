@@ -54,9 +54,9 @@ Based on the results of the A/B test project, four marketing strategies (Email, 
 
 This approach optimizes the balance between short-term profitability and long-term value.
 
-## Data Dictionary
+## Data Dictionary Example
 There are 4 sheets in the dataset: Data Dictionary, Random check, FP Analysis data, CP Anaylsis data.
-The Data Dictionary sheet contains 2 tables; the following one outlines the variables in the FP Analysis data sheet:
+The Data Dictionary sheet contains 2 tables; the following one outlines the variables in the 'FP Analysis data' sheet:
 
 | **Variable Name** | **Description**                                                                                   |
 |--------------------|---------------------------------------------------------------------------------------------------|
