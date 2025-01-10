@@ -35,9 +35,9 @@ summary(model_cor)
 
 #### Part 3: Evaluating the Impact of Video and Integrated Marketing Strategies####
 # 3-1 For focal products
-# Exclude PostVidWk because VidWk, PreVidWk, and PostVidWk variables are mutually 
+# Exclude PostVidWk, PreVidWk because VidWk, PreVidWk, and PostVidWk variables are mutually 
 # exclusive dummy variables
-model_fp <- lm(Sales ~ VidWk *(PreVidWk+
+model_fp <- lm(Sales ~ VidWk *(
                  ProdCat+ ProdPrice + PriceDiscWk + 
                  EmailWk + CatalogWk + HomePgWk + CatPgWk), data = df_focProduct)
 summary(model_fp)
