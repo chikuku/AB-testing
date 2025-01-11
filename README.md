@@ -96,19 +96,15 @@ Based on the results of the A/B test project, four marketing strategies (Email, 
 #### 1. Differentiate Products by Marketing Strategy
 &nbsp;&nbsp;&nbsp;&nbsp; I recommend categorizing products into short-term and long-term focus groups. Tailoring promotional strategies to these categories can maximize the benefits of both types.
 
-##### *Short-Term Comparison*
-&nbsp;&nbsp;&nbsp;&nbsp; During the test period, the focal product's sales increased: 
-* **Videos:** Modest increase of **23.59 units**  
-* **Email Promotions:** Significant increase of **105.44 units**  
-* **Catalog Promotions:** Significant increase of **209.99 units**  
-* **Home Page Promotions:** Significant increase of **90.87 units**  
-* **Category Page Promotions:** Significant increase of **101.63 units**
+##### Short-Term Strategies*: If the budgets are tied or the products are only short-term items, it is not a hurry to add videos.
+&nbsp;&nbsp;&nbsp;&nbsp; During the test period, adding videos did not provide a great outcome compared to other promotions. (The focal product's sales increased: Videos: 23.59 units, Email: 105.44, Catalog:209.99, Home Page Promotions:90.87, Category Page Promotions: 101.63). Thus, keeping the existing promotions should be more reasonable. 
 
-##### *Long-Term Value of Videos* 
-&nbsp;&nbsp;&nbsp;&nbsp; Videos could offer continuous value after implementation:
+##### Reconsider the Long-Term Value of Videos
+&nbsp;&nbsp;&nbsp;&nbsp; However, videos could offer continuous value after implementation:
 * Permanently displayed on product pages  
 * No recurring costs for maintenance  
-* Can influence multiple purchase decisions over time, potentially leading to greater cumulative sales growth.
+* Can influence multiple purchase decisions over time, potentially leading to greater cumulative sales growth.  
+Hence, we could consider only adding videos for long-term products.
 
 #### 2. Optimize the Cost-Benefit Ratio of Video Implementation 
 &nbsp;&nbsp;&nbsp;&nbsp; To further enhance the benefits of adding videos, I suggest two strategies:
