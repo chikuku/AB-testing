@@ -1,9 +1,34 @@
 # A/B Testing Project: Evaluating the Causal Impact of Product Videos on E-commerce Sales
 
-## Background & Overview  
-This project analyzes a US mid-size women's apparel retailer. The retailer sought to determine whether adding product videos to their website could boost e-commerce sales. In other words, are there valid causal relationships exist? Additionally, it  explored how integrating this feature with other promotional strategies influenced customer behavior and overall sales performance.
+## Background   
+This project analyzes a US mid-size women's apparel retailer. The retailer sought to determine whether adding product videos to their website could boost e-commerce sales. In other words, are there valid causal relationships exist? Additionally, it explored how integrating this feature with other promotional strategies influenced customer behavior and overall sales performance.
 
 The retailer has 571 products that were divided into two categories: Focal and Coordinating. Focal products are tops, bottoms, and dresses; coordinating products include accessories and shoes. Videos were added exclusively to focal products by random selections. Each videos are around 15-20 seconds. The models in the videos display focal products with matching coordinating products. The videos were shot with limited models and settings to reduce the differences. The experiment lasted 28 weeks of spring collection on the firm's website. 
+
+## Executive Summary
+This project evaluates the causal impact of adding product videos on e-commerce sales for a mid-size US women's apparel retailer. Through a 28-week A/B test, videos were introduced for focal products, and their impact on sales was analyzed alongside existing promotional strategies.
+
+Key findings indicate that while adding product videos led to a modest increase in weekly sales (23 units for focal products and 17 units for coordinating products), four existing promotional strategies, such as email and catalog promotions, significantly outperformed videos in driving short-term sales.
+
+Interaction effects showed contrasting results: Positive synergy was observed when videos were combined with homepage and category front page promotions, with increased sales of 102.1 and 164.15 units, respectively. However, combining videos with catalog promotions resulted in a significant negative effect, suggesting these two strategies should not be used together.
+
+Videos have the potential unique long-term advantages, such as permanent visibility on product pages and no recurring costs, which could contribute to sustained growth. These factors could be further explored in future studies and strategic planning.
+
+## Recommendations
+1. Strengthen Effective Combinations: Continue using videos combined with homepage and category front page promotions, as these combinations have shown significant positive effects, with coefficients of 102.1 and 164.15, respectively.
+2. Avoid Ineffective Combinations: Exclude catalog promotions when implementing videos to prevent adverse effects on sales. This ensures a focused and effective strategy.
+3. Optimize Costs: Reduce video production expenses by creating shorter videos, reusing existing content, or selectively implementing videos for high-margin products.
+4. Strategically Differentiate Products: Classify products into short-term and long-term focus groups to align promotional strategies effectively. This approach maximizes the impact of each promotional effort.
+
+## Methodology
+
+### Experiment Design
+
+The retailer introduced videos exclusively for focal products, including tops, bottoms, and dresses, while coordinating products (e.g., accessories and shoes) were displayed as complements in the videos. The experiment ran for 28 weeks during the spring collection.
+
+### Statistical Analysis
+
+The analysis employed t-tests to assess group balance and statistical models to measure the causal impact of videos on sales. Linear regression models were implemented using R scripts to evaluate the relationships between video usage, promotional strategies, and sales outcomes. Interaction effects between videos and other promotions were also analyzed.
 
 ## Project Outline
 This analysis is divided into three key parts:
@@ -99,3 +124,10 @@ Two combination promotions had great outcomes, while one did not. [R script](htt
 The coefficients are 102.1 and 164.15, suggesting that these 2 promotions integrated with videos can further boost sales.
 - However, when videos combined with catalog promotion(VidWk:CatalogWk) had significant negative effect. Thus, we should avoid using them together. 
 <img src= "https://github.com/chikuku/AB-testing/blob/main/Analysis%20Screenshot/Part3_Focal_Vid_combine_Promotions.jpg" alt="part2_fp_image" width="550">
+
+## Next Steps
+This analysis examines the potential of product videos to enhance sales while identifying limitations in their effectiveness compared to other promotions. Future steps could include:
+1. Conducting long-term studies to assess the cumulative effects of videos on sales.
+2. Exploring alternative combinations of promotions for greater synergy.
+3. Analyzing the relationship between focal products and coordinating products to determine which focal products drive more significant increases in coordinating product sales.
+4. Understanding the factors that shape customers' positive or negative attitudes toward promotions. 
