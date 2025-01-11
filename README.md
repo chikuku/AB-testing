@@ -27,14 +27,12 @@ The retailer has 571 products that were divided into two categories: Focal and C
 
 The analysis employed t-tests to assess group balance and statistical models to measure the causal impact of videos on sales. Linear regression models were implemented using R scripts to evaluate the relationships between video usage, promotional strategies, and sales outcomes. Interaction effects between videos and other promotions were also analyzed.
 
-### Project Outline
+### Outline
 This analysis is divided into three key parts:
 
 1. **Assessing Group Balance with a T-Test**  
 2. **Measuring the Effect of Product Videos on Focal & Coordinating Product Sales and compare the results with existing promotions** 
-3. **Analyzing the Interaction of Videos and Promotions on Sales**  
-  **Goal**: Understand the combined effect of product videos and other promotional strategies on sales performance.  
-  **Conclusion**: The interaction of videos and promotions further increased sales, suggesting a synergistic effect.
+3. **Analyzing the Interaction of Videos and Other Promotions on Sales**  
 
 ## Data Dictionary Example
 There are 4 sheets in the dataset: Data Dictionary, Random check, FP Analysis data, CP Anaylsis data.
