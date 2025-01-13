@@ -96,13 +96,13 @@ During the test period, adding videos did not provide a great outcome compared t
 
 * **Reconsider the Long-Term Value of Videos**  
  However, videos could offer continuous value after implementation:
-  * Permanently displayed on product pages  
-  * No recurring costs for maintenance  
-  * Can influence multiple purchase decisions over time, potentially leading to greater cumulative sales growth.  
-Hence, we could consider only adding videos for long-term products.
+  1. Permanently displayed on product pages  
+  2. No recurring costs for maintenance  
+  3. It can influence multiple purchase decisions over time, potentially leading to greater cumulative sales growth.  
+ Hence, we could consider only adding videos for long-term products.
 
 #### 2. Optimize the Cost-Benefit Ratio of Video Implementation 
-&nbsp;&nbsp;&nbsp;&nbsp; To further enhance the benefits of adding videos, consider the following strategies:
+&nbsp;&nbsp;&nbsp;&nbsp; To further enhance the benefits of adding videos, consider the following strategies:  
 * 1. **Selective Implementation:**  
    * Add videos only for products where the product's profit increase (e.g., 23 units from focal sales + 17 units from co-sales, multiplied by the product price) exceeds the video production cost.
 * 2. **Strengthen Effective Combinations**
