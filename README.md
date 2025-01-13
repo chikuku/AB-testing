@@ -29,8 +29,12 @@ This analysis is divided into three key parts:
 3. **Analyzing the Interaction of Videos and Other Promotions on Sales**  
 
 ## Data Dictionary Example
-There are 4 sheets in the dataset: Data Dictionary, Random check, FP Analysis data, CP Anaylsis data.
-The Data Dictionary sheet contains 2 tables; the following one outlines the variables in the 'FP Analysis data' sheet:
+There are 4 sheets in the dataset Data_clean.xlsx: Data Dictionary, Random check, FP Analysis data, and CP Anaylsis data.
+'Random check' is the data for part 1 analysis; it has the products that are in the treatment group (added videos) or control group(not added videos).  
+There is the ERD depicts the 3 sheets relationships. The CP Anaylsis data does not have direct foreign keys with the other.
+<img src = https://github.com/chikuku/AB-testing/blob/24ac2126da60fcb5574b1a80291c951072908af6/Analysis%20Screenshot/ERD.jpg width="600">
+
+The Data Dictionary sheet contains 2 tables and explain the variables in FP Analysis data and CP Anaylsis data; the following one outlines the variables in the 'FP Analysis data' sheet:
 
 | **Variable Name** | **Description**                                                                                   |
 |--------------------|---------------------------------------------------------------------------------------------------|
