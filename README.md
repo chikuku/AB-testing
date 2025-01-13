@@ -7,7 +7,7 @@ This project evaluates the causal impact of adding product videos on e-commerce 
 
 Key findings indicate that while adding product videos led to a modest increase in weekly sales (23 units for focal products and 17 units for coordinating products), four existing promotional strategies, such as email and catalog promotions, significantly outperformed videos in driving short-term sales.
 
-Interaction effects showed contrasting results: Positive synergy was observed when videos were combined with homepage and category front page promotions, with increased sales of 102.1 and 164.15 units, respectively. However, combining videos with catalog promotions resulted in a significant negative effect, suggesting these two strategies should not be used together.
+Interaction effects between videos and other promotions showed contrasting results: Positive synergy was observed when videos were combined with homepage and category front page promotions, with increased sales of 102.1 and 164.15 units, respectively. However, combining videos with catalog promotions resulted in a significant negative effect, suggesting these two strategies should not be used together.
 
 Videos have the potential unique long-term advantages, such as permanent visibility on product pages and no recurring costs, which could contribute to sustained growth. These factors could be further explored in future studies and strategic planning.
 
