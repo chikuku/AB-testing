@@ -11,12 +11,6 @@ Interaction effects showed contrasting results: Positive synergy was observed wh
 
 Videos have the potential unique long-term advantages, such as permanent visibility on product pages and no recurring costs, which could contribute to sustained growth. These factors could be further explored in future studies and strategic planning.
 
-## Recommendations
-1. Strengthen Effective Combinations: Continue using videos combined with homepage and category front page promotions, as these combinations have shown significant positive effects, with coefficients of 102.1 and 164.15, respectively.
-2. Avoid Ineffective Combinations: Exclude catalog promotions when implementing videos to prevent adverse effects on sales. This ensures a focused and effective strategy.
-3. Optimize Costs: Reduce video production expenses by creating shorter videos, reusing existing content, or selectively implementing videos for high-margin products.
-4. Strategically Differentiate Products: Classify products into short-term and long-term focus groups to align promotional strategies effectively. This approach maximizes the impact of each promotional effort.
-
 ## Methodology
 
 ### Experiment Design
@@ -94,27 +88,29 @@ Based on the results of the A/B test project, four marketing strategies (Email, 
 ### Recommendations
 
 #### 1. Differentiate Products by Marketing Strategy
-&nbsp;&nbsp;&nbsp;&nbsp; I recommend categorizing products into short-term and long-term focus groups. Tailoring promotional strategies to these categories can maximize the benefits of both types.
+Categorizing products into short-term and long-term focus groups and conducting promotional strategies respectively can maximize both types' benefits.
 
-##### Short-Term Strategies*: If the budgets are tied or the products are only short-term items, it is not a hurry to add videos.
-&nbsp;&nbsp;&nbsp;&nbsp; During the test period, adding videos did not provide a great outcome compared to other promotions. (The focal product's sales increased: Videos: 23.59 units, Email: 105.44, Catalog:209.99, Home Page Promotions:90.87, Category Page Promotions: 101.63). Thus, keeping the existing promotions should be more reasonable. 
+* **Short-Term Strategies**  
+ If the budgets are tied or the products are only short-term items, it is not a hurry to add videos.  
+During the test period, adding videos did not provide a great outcome compared to other promotions. (The focal product's sales increased: Videos: 23.59 units, Email: 105.44, Catalog:209.99, Home Page Promotions:90.87, Category Page Promotions: 101.63). Thus, keeping the existing promotions should be more reasonable. 
 
-##### Reconsider the Long-Term Value of Videos
-&nbsp;&nbsp;&nbsp;&nbsp; However, videos could offer continuous value after implementation:
-* Permanently displayed on product pages  
-* No recurring costs for maintenance  
-* Can influence multiple purchase decisions over time, potentially leading to greater cumulative sales growth.  
+* **Reconsider the Long-Term Value of Videos**  
+ However, videos could offer continuous value after implementation:
+  * Permanently displayed on product pages  
+  * No recurring costs for maintenance  
+  * Can influence multiple purchase decisions over time, potentially leading to greater cumulative sales growth.  
 Hence, we could consider only adding videos for long-term products.
 
 #### 2. Optimize the Cost-Benefit Ratio of Video Implementation 
-&nbsp;&nbsp;&nbsp;&nbsp; To further enhance the benefits of adding videos, I suggest two strategies:
+&nbsp;&nbsp;&nbsp;&nbsp; To further enhance the benefits of adding videos, consider the following strategies:
 * 1. **Selective Implementation:**  
    * Add videos only for products where the product's profit increase (e.g., 23 units from focal sales + 17 units from co-sales, multiplied by the product price) exceeds the video production cost.
-
- * 2. **Reduce Production Costs:**  
-   * Consider cost-saving measures, such as creating shorter videos, using lower-budget production settings, or repurposing existing content.
-
-This approach optimizes the balance between short-term profitability and long-term value.
+* 2. **Strengthen Effective Combinations**
+  * Continue using videos combined with homepage and category front page promotions, as these combinations have shown significant positive effects, with coefficients of 102.1 and 164.15, respectively.
+* 3. **Avoid Ineffective Combinations**
+  * Exclude catalog promotions when implementing videos to prevent adverse effects on sales. This ensures a focused and effective strategy.
+* 4. **Reduce Production Costs:**  
+  * Consider cost-saving measures, such as creating shorter videos, using lower-budget production settings, or repurposing existing content.
 
 ## Next Steps
 This analysis examines the potential of product videos to enhance sales while identifying limitations in their effectiveness compared to other promotions. Future steps could include:
